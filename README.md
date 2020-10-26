@@ -1,2 +1,4 @@
-# TrainingRoom
-To practice Programming.
+# 目的
+
+プログラミングの練習用に作成したコード群。
+Gistでもよかったけど、混乱しそうなので、一か所で管理。

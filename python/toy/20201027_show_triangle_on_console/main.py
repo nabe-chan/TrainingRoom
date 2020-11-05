@@ -11,7 +11,7 @@ if len(sys.argv) > 1:
     total_number_of_layer = int(sys.argv[1])
 
 # main code
-for i, b in enumerate(range(total_number_of_layer)):
+for i in range(total_number_of_layer):
     current_number_of_layer = i+1
     print(current_number_of_layer,
             ":",
